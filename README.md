@@ -1,4 +1,4 @@
-# Mastering Excel Dashboards for Analyzing Bike Sales Data
+# Mastering Excel Dashboards for Analyzing
 
 # Introduction:
 Excel is a powerful tool for organizing and analyzing data, and one of its most valuable features is the ability to create interactive dashboards. A well-designed dashboard allows you to visually explore and understand your bike sales data, making it easier to identify trends, patterns, and key insights. In this article, we will guide you through the process of creating an effective bike sales dashboard in Excel, helping you unlock the full potential of your data.
